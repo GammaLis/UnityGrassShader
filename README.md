@@ -1,2 +1,0 @@
-# UnityGrassShader
-Grass Shader
